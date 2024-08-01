@@ -26,3 +26,35 @@ The Inventory Management System is a C application designed to manage inventory,
 1. Clone the repository:
    ```bash
    git clone https://github.com/anisafrasheri/StoreManagement.git
+
+2. Navigate to the project directory:
+   ```bash
+  cd inventory-management-system
+
+
+4. Compile the code:
+   ```bash
+   gcc -o StoreSourceCode main.c -lcurses
+
+
+6. Run the application:
+   ```bash
+  ./StoreSourceCode
+
+
+
+## Usage
+Register Item: Option 1 to add new items.
+Register Client: Option 2 to add new clients.
+Supply: Option 3 to manage item supplies.
+Sale: Option 4 to process sales transactions.
+Inventory Status: Option 5 to view current inventory.
+Top Clients by Expenditure: Option 6 to see top 10 clients based on spending.
+Top Clients by Purchase Frequency: Option 7 to view top 20 clients based on purchase frequency.
+Search Item by Barcode: Option 8 to search for items by barcode.
+Display General Statistics: Option r to view total items, clients, sales, and supplies.
+Exit: Option d to close the application.
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
