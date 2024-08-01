@@ -29,7 +29,7 @@ The Inventory Management System is a C application designed to manage inventory,
 
 2. Navigate to the project directory:
    ```bash
-  cd inventory-management-system
+   cd inventory-management-system
 
 
 4. Compile the code:
@@ -39,7 +39,7 @@ The Inventory Management System is a C application designed to manage inventory,
 
 6. Run the application:
    ```bash
-  ./StoreSourceCode
+   ./StoreSourceCode
 
 
 
